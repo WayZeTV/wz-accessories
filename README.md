@@ -14,7 +14,7 @@ Le nom de la ressource n'est pas modifiable !
  - [Ressource Preview](https://streamable.com/v238po) 
 
 # Installation
-- Import `wz-poleemploi` in your server base
+- Import `wz-accessories` in your server base
 - Add this in your `server.cfg`:
 
 ```
