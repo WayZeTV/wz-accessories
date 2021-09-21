@@ -15,7 +15,7 @@ Le nom de la ressource n'est pas modifiable !
 
 # Installation
 - Import `wz-accessories` in your server base
-- Add this in your `server.cfg`:
+- Add this in your `server.cfg` or `ressources.cfg` : 
 
 ```
 start wz-accessories
